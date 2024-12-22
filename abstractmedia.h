@@ -9,7 +9,7 @@ namespace Media{
 class AbstractMedia
 {
 private:
-    unsigned int id;
+    unsigned int id2;
     std::string type;
     std::string name;
     unsigned int year;
